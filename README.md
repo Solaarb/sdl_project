@@ -11,7 +11,8 @@ Elephant Dodge est un jeu d'arcade en 2D développé en C avec la bibliothèque 
 **Compatibilité** : Windows, Linux, macOS (avec SDL installée)
 
 ## 📷 Aperçu
-(capture d’écran du jeu ou une animation GIF du gameplay)
+
+<img src="img/elephant.gif" width="400">
 
 ## 🔧 Installation
 ### Prérequis
